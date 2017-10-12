@@ -1,7 +1,7 @@
 {
   "name": "turbo-c-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Syntax theme modeled off Turbo C editor colors",
   "keywords": [
     "syntax",
